@@ -4,3 +4,4 @@
 
 
 [[Obsidian Vault/Notion/소프트 랩스/영상광고/v2/user\|user]]
+[[Obsidian Vault/Notion/소프트 랩스/영상광고/v2/admin\|admin]]
